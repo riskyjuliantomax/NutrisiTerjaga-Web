@@ -1,4 +1,4 @@
-# NutrisiTerjaga-Web
+# NutrisiTerjaga User
 
 Membangun aplikasi shopping menggunakan bahasa jsp (JAVA SERVER PAGES)
 
