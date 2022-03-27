@@ -1,0 +1,28 @@
+SMAP
+contact_jsp.java
+JSP
+*S JSP
+*F
++ 0 contact.jsp
+contact.jsp
++ 1 headerlogin.jsp
+headerlogin.jsp
++ 2 footer.jsp
+footer.jsp
++ 3 loginmodal.html
+loginmodal.html
+*L
+1,43:53
+5#1,37:96
+42,11:134
+52,30:145
+82,2:175,3
+84,150:181
+233,10:331
+242,4:341
+43#0,78:344
+5#2,140:422
+120#0,2:561
+1#3,38:563
+121#0,27:600
+*E
